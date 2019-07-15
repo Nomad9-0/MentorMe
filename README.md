@@ -6,6 +6,7 @@ Users create an account and then answer a few questions to be paired with the be
 ## Technologies:
   - JavaScript
   - React
+  - HTML
   - CSS
   - Bootstrap
   - MongoDB
